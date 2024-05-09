@@ -94,9 +94,12 @@
 
 ## 2.写作工具篇
 
-2.1 ChatGPT
-2.2 [Academic Phrasebank：SCI专用写作句型和短语](https://www.phrasebank.manchester.ac.uk/)
-2.3 [Thesaurus：同义词替换](https://www.freethesaurus.com/)
+2.1 ChatGPT  
+
+2.2 [Academic Phrasebank：SCI专用写作句型和短语](https://www.phrasebank.manchester.ac.uk/)  
+
+2.3 [Thesaurus：同义词替换](https://www.freethesaurus.com/)  
+
 2.4 [Grammarly：语法修改](https://app.grammarly.com/)
 
 ## 3.解惑篇
